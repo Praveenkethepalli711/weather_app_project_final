@@ -2,7 +2,11 @@ Weathercast Using Python and Django
 *Weather Bug is the application of science and technology to predict the conditions of the atmosphere for a given location and time. You can get the realtime Weather forecasting by using this web application*
 
 
--->
+K L UNIVERSITY
+190030921 K.V.L Praveen
+190030145 B.GOPI JANARDHAN REDDY
+BATCH 159 AI&IPA
+FINAL_YEAR_PROJECT
 
 ## Requirements
 1.  Python 3+
@@ -10,37 +14,12 @@ Weathercast Using Python and Django
 
 ## Setup, Installation and Run
 
-To run the app on your local machine, you need Python 3+, installed on your computer. Follow all the steps to run this project.
-   
-1.  Create `venv` virtual environment:
-```bash
-pip install venv virtual_env_name
-```
-    
-2.  Activate `venv` virtual environment:
-```bash
-source virtual_env_name/Scripts/activate
-```
-
-
-```
-
-4. Then enter the corresponding directory:
-```bash
-cd Weather_App--Python-Django
-```
-    
-5. Install all the requirements using pip:
-```bash
-pip install -r requirements.txt
-``` 
-
-6.	Run server:
-```bash
 python manage.py runserver
-```
 
 # Tools
+
+openweathermap.org  API
+
 ## Front-end Part
 * HTML
 * CSS
@@ -49,11 +28,5 @@ python manage.py runserver
 ## Back-end
 * Django
 * SQLite 3
-
-# Screenshots of the Project
-<p align="center">
-  <img width="660" height="300" src="static/ss/a.png">
-  <img width="660" height="300" src="static/ss/b.png">
-</p>
 
 
